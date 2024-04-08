@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### About Me
+<hr>
 
 I'm Elias. I've been very passionate with all things tech since I was a little kid, and as a result, I am currently pursuing a degree in Computer Science!
 
@@ -8,11 +8,13 @@ I intend on having this repository serve as a small informal portfolio once I fi
 
 
 ### Languages I Use
-
+<hr>
 **Legend**
 
 ⭐ - Very Experienced
+<br>
 ✅ - Proficient
+<br>
 🔴 - Beginner
 
 - Lua ⭐
@@ -23,3 +25,6 @@ I intend on having this repository serve as a small informal portfolio once I fi
 - C# 🔴
 
 ### Cool Projects
+<hr>
+
+Coming soon!
