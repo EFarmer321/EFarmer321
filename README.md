@@ -8,8 +8,9 @@ I intend on having this repository serve as a small informal portfolio once I fi
 
 
 ### Languages I Use
+
 <hr>
-**Legend**
+<b>Legend</b>
 
 ⭐ - Very Experienced
 <br>
