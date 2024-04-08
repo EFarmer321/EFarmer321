@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**EFarmer321/EFarmer321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm Elias. I've been very passionate with all things tech since I was a little kid, and as a result, I am currently pursuing a degree in Computer Science!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I intend on having this repository serve as a small informal portfolio once I finish projects I am happy with.
+
+
+### Languages I Use
+
+**Legend**
+
+⭐ - Very Experienced
+✅ - Proficient
+🔴 - Beginner
+
+- Lua ⭐
+- C++ ✅
+- Typescript ✅
+- Javascript ✅
+- C 🔴
+- C# 🔴
+
+### Cool Projects
