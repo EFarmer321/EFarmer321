@@ -2,10 +2,9 @@
 
 <hr>
 
-I'm Elias. I've been very passionate with all things tech since I was a little kid, and as a result, I am currently pursuing a degree in Computer Science!
+I'm Elias. I've been very passionate with all things tech since I was very young and as a result, I am currently pursuing a degree in Computer Science.
 
 I intend on having this repository serve as a small informal portfolio once I finish projects I am happy with.
-
 
 ### Languages I Use
 
